@@ -78,10 +78,10 @@ export const siteContent = {
         "45 дней + 5 дней заморозка",
         "Игровое оборудование"
       ],
-      popular: true
+      popular: false
     },
     {
-      id: 1,
+      id: 2,
       name: "Абонемент 8 занятия 30 мин",
       price: "16400 ₽",
       features: [
@@ -92,7 +92,7 @@ export const siteContent = {
       popular: true
     },
     {
-      id: 1,
+      id: 3,
       name: "Абонемент 12 занятия 30 мин",
       price: "23600 ₽",
       features: [
@@ -100,7 +100,7 @@ export const siteContent = {
         "90 дней + 12 дней заморозка",
         "Игровое оборудование"
       ],
-      popular: true
+      popular: false
     }
   ],
 
@@ -115,7 +115,7 @@ export const siteContent = {
       vk: "https://vk.com/akulenok_pool",
       telegram: "https://t.me/akulenok_pool",
       instagram: "https://instagram.com/akulenok_pool",
-      whatsapp: "https://wa.me/79991234567"
+      whatsapp: "https://wa.me/89013533853"
     }
   },
 
